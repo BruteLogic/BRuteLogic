@@ -1,24 +1,14 @@
-<div align="center">
+<p align="center">
+  <img src="https://brutelogic.net/wp-content/themes/bruteone/assets/img/char-bruteone.png" width="230" alt="Brute Logic">
+</p>
 
-  <div style="display: flex; align-items: flex-start; justify-content: center; gap: 30px; max-width: 680px; margin: 20px auto;">
-    
-    <!-- Left: Text -->
-    <div style="flex: 1; text-align: left;">
-      <h2>Rodolfo Assis</h2>
-      <p><strong>Brute Logic · @brutelogic</strong></p>
-      <p>Offensive security · AI · hack2learn · Brazil 🇧🇷</p>
-      
-      <p>Building tools and platforms at the intersection of offensive security and AI. Creator of <strong>KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong>Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age.</p>
-    </div>
+<h2 align="center">Rodolfo Assis</h2>
+<p align="center"><strong>Brute Logic · @brutelogic</strong></p>
+<p align="center">Offensive security · AI · hack2learn · Brazil 🇧🇷</p>
 
-    <!-- Right: Image -->
-    <div style="flex-shrink: 0;">
-      <img src="https://brutelogic.net/wp-content/themes/bruteone/assets/img/char-bruteone.png" width="230" alt="Brute Logic">
-    </div>
-
-  </div>
-
-</div>
+<p align="center">
+  Building tools and platforms at the intersection of offensive security and AI. Creator of <strong>KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong>Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age.
+</p>
 
 ---
 
