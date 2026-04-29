@@ -1,6 +1,6 @@
 Offensive security · AI · hack2learn · Brazil 🇧🇷</p>
 
-  Building tools and platforms at the intersection of offensive security and AI. Creator of <strong>KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong>Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age. Developing the King of Noobs recon suite for Brute One.
+  Building tools and platforms at the intersection of offensive security and AI. Creator of <strong>KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong>Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age. Developing the King of Noobs recon suite for <strong>Brute One</strong>.
 
 ---
 
