@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://brutelogic.net/wp-content/themes/bruteone/assets/img/char-bruteone.png" width="230" alt="Brute Logic">
-</p>
-
 <h2 align="center">Rodolfo Assis</h2>
 <p align="center"><strong>Brute Logic · @brutelogic</strong></p>
 <p align="center">Offensive security · AI · hack2learn · Brazil 🇧🇷</p>
