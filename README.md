@@ -1,8 +1,8 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td width="380">
+  <table>
+    <tr>
+      <td width="400">
 
 **Rodolfo Assis**  
 **Brute Logic · @brutelogic**
@@ -11,12 +11,12 @@ Offensive security · AI · hack2learn · Brazil 🇧🇷
 
 Building tools and platforms at the intersection of offensive security and AI. Creator of **KNOXSS**, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing **Security in Collapse** — a cyberpunk doctrine for the Intelligence Age.
 
-    </td>
-    <td width="280" align="right" valign="top">
-      <img src="https://brutelogic.net/wp-content/themes/bruteone/assets/img/char-bruteone.png" width="240" alt="Brute Logic">
-    </td>
-  </tr>
-</table>
+      </td>
+      <td width="260" align="right" valign="top">
+        <img src="https://brutelogic.net/wp-content/themes/bruteone/assets/img/char-bruteone.png" width="230" alt="Brute Logic">
+      </td>
+    </tr>
+  </table>
 
 </div>
 
