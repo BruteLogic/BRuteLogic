@@ -1,0 +1,143 @@
+<svg width="680" height="700" viewBox="0 0 680 700" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <foreignObject width="680" height="700" x="0" y="0">
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Exo+2:wght@300;400;600;700&display=swap');
+*{box-sizing:border-box;margin:0;padding:0}
+.root{font-family:'Exo 2',sans-serif;background:#08080e;border:1px solid rgba(255,45,120,0.45);border-radius:6px;overflow:hidden;max-width:680px;position:relative}
+.bar{height:2px;background:linear-gradient(90deg,#ff2d78,#00b4ff,#ff2d78);background-size:200%;animation:slide 4s linear infinite}
+@keyframes slide{to{background-position:200% 0}}
+.body{padding:22px 26px 20px}
+.head{display:flex;align-items:center;gap:16px;margin-bottom:14px}
+.av img{width:68px;height:68px;border-radius:50%;border:2px solid #ff2d78;display:block}
+.nc .name{font-size:21px;font-weight:700;color:#fff;letter-spacing:.3px}
+.nc .sub{font-family:'Share Tech Mono',monospace;font-size:12px;color:#ff2d78;margin-top:3px}
+.nc .loc{font-family:'Share Tech Mono',monospace;font-size:11px;color:rgba(0,180,255,0.7);margin-top:2px}
+.bio{font-size:13.5px;color:rgba(255,255,255,0.6);line-height:1.65;margin-bottom:16px}
+.section-label{font-family:'Share Tech Mono',monospace;font-size:10px;color:rgba(0,180,255,0.55);letter-spacing:2px;text-transform:uppercase;margin-bottom:7px}
+.projects{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:16px}
+a.proj{display:block;background:rgba(255,255,255,0.03);border:1px solid rgba(255,45,120,0.2);border-radius:4px;padding:9px 11px;text-decoration:none;transition:border-color .2s,background .2s}
+a.proj:hover{background:rgba(255,45,120,0.06);border-color:rgba(255,45,120,0.5)}
+a.proj .ptitle{font-size:13px;font-weight:600;color:#fff;margin-bottom:3px}
+a.proj .ptitle span{color:#ff2d78}
+a.proj .pdesc{font-size:12px;color:rgba(255,255,255,0.45);line-height:1.5}
+a.proj.blue{border-color:rgba(0,180,255,0.3)}
+a.proj.blue:hover{background:rgba(0,180,255,0.06);border-color:rgba(0,180,255,0.6)}
+a.proj.blue .ptitle span{color:#00b4ff}
+.suite{margin-bottom:16px}
+.suite-tools{display:flex;flex-wrap:wrap;gap:6px}
+a.tool{font-family:'Share Tech Mono',monospace;font-size:11px;border-radius:3px;padding:3px 9px;border:1px solid rgba(255,45,120,0.3);color:#ff2d78;text-decoration:none;transition:background .2s}
+a.tool:hover{background:rgba(255,45,120,0.1)}
+a.tool .k{color:#fff}
+.tool-plain{font-family:'Share Tech Mono',monospace;font-size:11px;border-radius:3px;padding:3px 9px;border:1px dashed rgba(255,255,255,0.1);color:rgba(255,255,255,0.25)}
+.ebooks{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;margin-bottom:16px}
+a.eb{display:block;border-radius:4px;padding:8px 10px;text-decoration:none;transition:opacity .2s;border:1px solid transparent}
+a.eb:hover{opacity:.8}
+a.eb .etitle{font-size:12px;font-weight:600;margin-bottom:2px}
+a.eb .eprice{font-family:'Share Tech Mono',monospace;font-size:11px;opacity:.7}
+a.eb.green{background:rgba(0,180,100,0.08);border-color:rgba(0,180,100,0.3)}
+a.eb.green .etitle{color:#00c878}
+a.eb.green .eprice{color:#00c878}
+a.eb.orange{background:rgba(255,150,30,0.08);border-color:rgba(255,150,30,0.3)}
+a.eb.orange .etitle{color:#ff9820}
+a.eb.orange .eprice{color:#ff9820}
+a.eb.red{background:rgba(220,50,50,0.08);border-color:rgba(220,50,50,0.3)}
+a.eb.red .etitle{color:#e03030}
+a.eb.red .eprice{color:#e03030}
+.blogs{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap}
+a.bl{font-size:12px;border-radius:3px;padding:4px 9px;text-decoration:none;transition:opacity .2s}
+a.bl:hover{opacity:.8}
+a.bl.live{color:rgba(0,180,255,0.8);background:rgba(0,180,255,0.05);border:1px solid rgba(0,180,255,0.2)}
+a.bl.soon{color:rgba(255,255,255,0.35);background:rgba(255,255,255,0.02);border:1px dashed rgba(255,255,255,0.15)}
+.links{display:flex;flex-wrap:wrap;gap:12px}
+a.lk{font-family:'Share Tech Mono',monospace;font-size:11px;color:rgba(255,255,255,0.4);display:flex;align-items:center;gap:5px;text-decoration:none}
+a.lk:hover{color:#ff2d78}
+.dot{width:5px;height:5px;border-radius:50%;background:#ff2d78;flex-shrink:0}
+.dot.b{background:#00b4ff}
+.divider{border:none;border-top:1px solid rgba(255,255,255,0.06);margin:14px 0}
+    </style>
+
+    <div class="root">
+      <div class="bar"></div>
+      <div class="body">
+
+        <div class="head">
+          <div class="av"><img src="https://avatars.githubusercontent.com/u/20602952?v=4" alt="Brute Logic"></div>
+          <div class="nc">
+            <div class="name">Rodolfo Assis</div>
+            <div class="sub">Brute Logic · @brutelogic</div>
+            <div class="loc">Offensive security · AI · hack2learn · Brazil 🇧🇷</div>
+          </div>
+        </div>
+
+        <div class="bio">
+          Building tools and platforms at the intersection of offensive security and AI. Creator of <strong style="color:rgba(255,255,255,0.85)">KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong style="color:rgba(255,255,255,0.85)">Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age.
+        </div>
+
+        <div class="section-label">// active projects</div>
+        <div class="projects">
+          <a class="proj blue" href="https://brutelogic.net/brute-one" target="_blank">
+            <div class="ptitle"><span>Brute One</span></div>
+            <div class="pdesc">AI-powered bug bounty platform. Agentic tool orchestration + proprietary exploit intelligence.</div>
+          </a>
+          <a class="proj blue" href="https://knoxss.pro" target="_blank">
+            <div class="ptitle"><span>KNOXSS</span></div>
+            <div class="pdesc">Automated XSS detection service. Live since 2016. Reflected, stored, DOM, blind, CSP bypass.</div>
+          </a>
+          <a class="proj" href="https://brutelogic.net/cyberpunk" target="_blank">
+            <div class="ptitle"><span>Security in Collapse</span></div>
+            <div class="pdesc">Cyberpunk doctrine for the Intelligence Age. Free. Work in progress.</div>
+          </a>
+          <a class="proj" href="https://brutelogic.net/executor" target="_blank">
+            <div class="ptitle"><span>Brute Executor</span></div>
+            <div class="pdesc">Physical-world infrastructure for autonomous AI agents. Domain, SIM, payments, legal bridging.</div>
+          </a>
+        </div>
+
+        <div class="suite">
+          <div class="section-label">// 👑 king of noobs suite — KISS recon tools</div>
+          <div class="suite-tools">
+            <a class="tool" href="https://github.com/BruteLogic/reKon" target="_blank"><span class="k">re</span>Kon</a>
+            <a class="tool" href="https://github.com/BruteLogic/disKover" target="_blank"><span class="k">dis</span>Kover</a>
+            <a class="tool" href="https://github.com/BruteLogic/reKover" target="_blank"><span class="k">re</span>Kover</a>
+            <a class="tool" href="https://github.com/BruteLogic/unKover" target="_blank"><span class="k">un</span>Kover</a>
+            <span class="tool-plain">more coming</span>
+          </div>
+        </div>
+
+        <div class="section-label">// ebooks</div>
+        <div class="ebooks">
+          <a class="eb green" href="https://brutelogic.net/first-bounty/" target="_blank">
+            <div class="etitle">First Bounty</div>
+            <div class="eprice">$19 · 84 pages</div>
+          </a>
+          <a class="eb orange" href="https://brutelogic.net/ssrf-mastery-series/fundamentals/" target="_blank">
+            <div class="etitle">SSRF Mastery Series</div>
+            <div class="eprice">$29 · 68 pages</div>
+          </a>
+          <a class="eb red" href="https://brutelogic.net/brute-art-bypass/" target="_blank">
+            <div class="etitle">Brute Art of Bypass</div>
+            <div class="eprice">$25 · 20+ pages</div>
+          </a>
+        </div>
+
+        <div class="section-label">// blogs</div>
+        <div class="blogs">
+          <a class="bl live" href="https://brutelogic.net/charted" target="_blank">📡 Charted — AI, tech & society</a>
+          <a class="bl soon" href="https://brutelogic.net/uncharted" target="_blank">🔧 Uncharted — web hacking & bug bounty (coming soon)</a>
+        </div>
+
+        <hr class="divider">
+
+        <div class="links">
+          <a class="lk" href="https://brutelogic.net" target="_blank"><span class="dot"></span>brutelogic.net</a>
+          <a class="lk" href="https://brutelogic.net/brute-one" target="_blank"><span class="dot b"></span>brute one</a>
+          <a class="lk" href="https://knoxss.pro" target="_blank"><span class="dot"></span>knoxss.pro</a>
+          <a class="lk" href="https://brutelogic.net/cyberpunk" target="_blank"><span class="dot b"></span>security in collapse</a>
+          <a class="lk" href="https://brutelogic.net/research" target="_blank"><span class="dot"></span>research record</a>
+          <a class="lk" href="https://brutelogic.net/ebooks" target="_blank"><span class="dot b"></span>ebooks</a>
+        </div>
+
+      </div>
+    </div>
+  </foreignObject>
+</svg>
