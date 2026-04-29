@@ -1,14 +1,24 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/20602952?v=4" width="100" style="border-radius:50%; border:3px solid #ff2d78;">
-</p>
+<div align="center">
 
-<h2 align="center">Rodolfo Assis</h2>
-<p align="center"><strong>Brute Logic · @brutelogic</strong></p>
-<p align="center">Offensive security · AI · hack2learn · Brazil 🇧🇷</p>
+<table>
+  <tr>
+    <td width="380">
 
-<p align="center">
-  Building tools and platforms at the intersection of offensive security and AI. Creator of <strong>KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong>Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age.
-</p>
+**Rodolfo Assis**  
+**Brute Logic · @brutelogic**
+
+Offensive security · AI · hack2learn · Brazil 🇧🇷
+
+Building tools and platforms at the intersection of offensive security and AI. Creator of **KNOXSS**, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing **Security in Collapse** — a cyberpunk doctrine for the Intelligence Age.
+
+    </td>
+    <td width="280" align="right" valign="top">
+      <img src="https://brutelogic.net/wp-content/themes/bruteone/assets/img/char-bruteone.png" width="240" alt="Brute Logic">
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -28,9 +38,9 @@
 
 ### // ebooks
 
-- **[First Bounty](https://brutelogic.net/first-bounty/)** · 84 pages
-- **[SSRF Mastery Series](https://brutelogic.net/ssrf-mastery-series/fundamentals/)** · 68 pages
-- **[Brute Art of Bypass](https://brutelogic.net/brute-art-bypass/)** · 20+ pages
+- **[First Bounty](https://brutelogic.net/first-bounty/)**
+- **[SSRF Mastery Series](https://brutelogic.net/ssrf-mastery-series/fundamentals/)**
+- **[Brute Art of Bypass](https://brutelogic.net/brute-art-bypass/)**
 
 ### // blogs
 
