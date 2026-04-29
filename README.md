@@ -21,10 +21,11 @@
 
 ### // 👑 king of noobs suite — KISS recon tools
 
-- [`reKon`](https://github.com/BruteLogic/reKon)
-- [`disKover`](https://github.com/BruteLogic/disKover)
-- [`reKover`](https://github.com/BruteLogic/reKover)
 - [`unKover`](https://github.com/BruteLogic/unKover)
+- [`reKover`](https://github.com/BruteLogic/reKover)
+- [`disKover`](https://github.com/BruteLogic/disKover)
+- [`reKon`](https://github.com/BruteLogic/reKon)
+
 
 ### // ebooks
 
