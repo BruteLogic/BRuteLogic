@@ -45,9 +45,9 @@
 
 ### 📚 Ebooks
 
-- **[First Bounty](https://brutelogic.net/first-bounty/)** — $19
-- **[SSRF Mastery Series](https://brutelogic.net/ssrf-mastery-series/fundamentals/)** — $29
-- **[Brute Art of Bypass](https://brutelogic.net/brute-art-bypass/)** — $25
+- **[First Bounty](https://brutelogic.net/first-bounty/)**
+- **[SSRF Mastery Series](https://brutelogic.net/ssrf-mastery-series/fundamentals/)**
+- **[Brute Art of Bypass](https://brutelogic.net/brute-art-bypass/)**
 
 ### 📝 Blogs
 - [📡 Charted — AI, tech & society](https://brutelogic.net/charted)
@@ -60,10 +60,10 @@
 **🔗 Links**
 
 [brutelogic.net](https://brutelogic.net) • 
-[Brute One](https://brutelogic.net/brute-one) • 
-[KNOXSS](https://knoxss.pro) • 
-[Security in Collapse](https://brutelogic.net/cyberpunk) • 
-[Research](https://brutelogic.net/research) • 
-[Ebooks](https://brutelogic.net/ebooks)
+[brute one](https://brutelogic.net/brute-one) • 
+[knoxss](https://knoxss.pro) • 
+[security in collapse](https://brutelogic.net/cyberpunk) • 
+[research record](https://brutelogic.net/research) • 
+[ebooks](https://brutelogic.net/ebooks)
 
 </div>
