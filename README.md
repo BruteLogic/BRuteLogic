@@ -2,6 +2,9 @@ Offensive security · AI · hack2learn · Brazil 🇧🇷</p>
 
   Building tools and platforms at the intersection of offensive security and AI. Creator of <strong>KNOXSS</strong>, the most comprehensive automated XSS service. Self-published author of offensive security ebooks. Writing <strong>Security in Collapse</strong> — a cyberpunk doctrine for the Intelligence Age. Research record **[here](https://brutelogic.net/research)**.
 
+<a href="https://example.com" target="_blank">Link Text</a>
+
+
 ---
 
 ### // active projects
