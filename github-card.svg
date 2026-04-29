@@ -1,7 +1,7 @@
 <svg width="680" height="700" viewBox="0 0 680 700" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <foreignObject width="680" height="700" x="0" y="0">
     <style>
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Exo+2:wght@300;400;600;700&amp;display=swap');
+<!-- @import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Exo+2:wght@300;400;600;700&amp;display=swap'); -->
 *{box-sizing:border-box;margin:0;padding:0}
 .root{font-family:'Exo 2',sans-serif;background:#08080e;border:1px solid rgba(255,45,120,0.45);border-radius:6px;overflow:hidden;max-width:680px;position:relative}
 .bar{height:2px;background:linear-gradient(90deg,#ff2d78,#00b4ff,#ff2d78);background-size:200%;animation:slide 4s linear infinite}
